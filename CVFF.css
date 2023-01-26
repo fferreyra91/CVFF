@@ -58,6 +58,7 @@ button {
     background: rgb(173, 171, 171);
     color: black;
     cursor: pointer;
+    margin-bottom: 10px;
 }
 
 
